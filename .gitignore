@@ -1,0 +1,18 @@
+# IDE
+.idea
+.vscode
+
+# build output
+.next
+
+# config
+config/local.*
+
+# coverage
+coverage
+
+# dependencies
+node_modules
+
+# logs
+*.log
