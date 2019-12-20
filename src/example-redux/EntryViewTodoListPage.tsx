@@ -1,7 +1,7 @@
 import React from 'react';
 import { Provider } from 'react-redux';
 import ViewTodoListPage from '../example-simple/ViewTodoListPage';
-import { StoreTodoListPage } from './ViewModelTodoListPage';
+import { StoreTodoListPage } from './ModelTodoListPage';
 
 export default function EntryViewTodoListPage() {
   return (
